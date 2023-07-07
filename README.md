@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate B.Tech student at Lovely Professi
 ## TryHackMe
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="300"/>
 </div>
 
 - 🎯 I actively participate in TryHackMe, an online platform for learning and practicing cybersecurity skills. Check out my profile: [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=flat-square&logo=tryhackme)](https://tryhackme.com/p/Japneet084)
@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a passionate B.Tech student at Lovely Professi
 - 🌟 If you're interested in working together on exciting projects or have any questions, feel free to reach out to me. I'm always ready for new opportunities and challenges.
 
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif)" width="100"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </div>
 
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and don't forget to connect with me. Let's learn, code, and grow together! 😄
