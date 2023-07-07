@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate B.Tech student at Lovely Professi
 - 🌟 If you're interested in working together on exciting projects or have any questions, feel free to reach out to me. I'm always ready for new opportunities and challenges.
 
 <div align="center">
-  <img src="https://github.com/Japneet084/Japneet084/blob/main/assets/coding.gif" alt="Coding Animation" width="500" height="300" />
+  <img src="[https://github.com/Japneet084/Japneet084/blob/main/assets/coding.gif](https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif)" alt="Coding Animation" width="500" height="300" />
 </div>
 
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and don't forget to connect with me. Let's learn, code, and grow together! 😄
