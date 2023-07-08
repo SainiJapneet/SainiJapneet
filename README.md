@@ -1,5 +1,3 @@
-Certainly! Here's an updated version of the README with added animations:
-
 # Hi there, I'm Japneet Singh! 👋
 
 Welcome to my GitHub profile! I'm a passionate B.Tech student at Lovely Professional University, Punjab, India, with a keen interest in application development, cybersecurity, and exploring the world of technology.
