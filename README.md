@@ -30,4 +30,4 @@ Welcome to my GitHub profile! I'm a passionate B.Tech student at Lovely Professi
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </div>
 
-Thank you for visiting my GitHub profile! Feel free to explore my repositories and don't forget to connect with me. Let's learn, code, and grow together! 😄
+Thank you for visiting my GitHub profile! Feel free to explore my repositories and don't forget to connect with me. Let's learn, code, and grow together! 
