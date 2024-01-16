@@ -11,7 +11,6 @@ Welcome to my GitHub profile! I'm a passionate B.Tech student at Lovely Professi
 
 ## Connect with Me
 
-- 📫 You can reach me via email at japneetsaini084@gmail.com.
 - 💼 Let's connect on LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/saini-japneet084/)
 
 ## TryHackMe
