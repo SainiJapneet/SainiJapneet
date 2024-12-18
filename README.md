@@ -8,7 +8,8 @@ Welcome to my GitHub profile! I'm a passionate B.Tech student at Lovely Professi
 - 🌱 I'm learning and experimenting with Kali Linux and SQL to expand my knowledge in the cybersecurity domain.
 - 💡 I enjoy creating innovative applications and exploring different aspects of software development.
 - 👯 I'm always open to collaborating on exciting projects and learning from fellow developers.
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SainiJapneet&layout=compact)
+  
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SainiJapneet&layout=compact)
 
 
 ## Connect with Me
